@@ -44,8 +44,6 @@ Driven Software Engineer with **10+ years** building full-stack applications, au
 - Observability with **Datadog** and **Grafana**
 - AI evaluation, prompt engineering, and production debugging
 
-**Contact:** [christinadeaver6@gmail.com](mailto:christinadeaver6@gmail.com) · +1 385-248-1416 · [LinkedIn](https://linkedin.com/in/christinadeaver/) · [Resume site](https://senior-ara1206.github.io/cloud-resume/)
-
 ---
 
 ## Experience Snapshot
