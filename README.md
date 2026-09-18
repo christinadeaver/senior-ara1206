@@ -78,11 +78,12 @@ I build modern web experiences with **JavaScript**, **TypeScript**, and **Angula
 
 | Project | Stack | Link |
 | --- | --- | --- |
+| Cloud Resume | HTML, CSS, JS, GitHub Pages | [Repo](https://github.com/senior-ara1206/cloud-resume) |
+| Docker Node API | Node.js, Express, Docker, CI | [Repo](https://github.com/senior-ara1206/docker-node-api) |
 | Angular Dashboard | TypeScript, Angular | [Repo](https://github.com/senior-ara1206/angular-dashboard-repository) |
 | Full-Stack Portfolio | JavaScript | [Repo](https://github.com/senior-ara1206/portfolio_fullstack1_milan) |
 | Crypto Portfolio | JavaScript | [Repo](https://github.com/senior-ara1206/portfolio_crypto_milan) |
 | Marko Portfolio | HTML | [Repo](https://github.com/senior-ara1206/marko_portfolio) |
-| Full-Stack Resume | JavaScript | [Repo](https://github.com/senior-ara1206/marko_fullstack_resume) |
 
 ---
 
