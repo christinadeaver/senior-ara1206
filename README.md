@@ -12,7 +12,7 @@
   <br/>
 
   <img src="https://raw.githubusercontent.com/senior-ara1206/senior-ara1206/main/badges/profile-views.svg" alt="Profile views"/>
-  <a href="https://github.com/senior-ara1206?tab=followers"><img src="https://img.shields.io/github/followers/senior-ara1206?style=for-the-badge&logo=github&label=Followers&color=4c1" alt="Followers"/></a>
+  <a href="https://github.com/senior-ara1206?tab=followers"><img src="https://raw.githubusercontent.com/senior-ara1206/senior-ara1206/main/badges/followers.svg" alt="Followers"/></a>
   <img src="https://img.shields.io/github/stars/senior-ara1206?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars&color=dfb317" alt="Stars"/>
   <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-brightgreen?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to work"/>
   <img src="https://img.shields.io/badge/Remote-Ready-0A66C2?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Remote ready"/>
