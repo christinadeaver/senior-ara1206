@@ -6,7 +6,7 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Ara+%F0%9F%91%8B;Full-Stack+%26+Cloud+Engineer;Building+clean+web+apps;Always+learning%2C+always+shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Christina+Deaver;Senior+Software+Engineer+%7C+AI+Engineer;Full-Stack+%C2%B7+APIs+%C2%B7+Cloud+%C2%B7+DevOps;Open+to+remote+opportunities" alt="Typing SVG" />
 
   <br/>
   <br/>
@@ -30,18 +30,42 @@
 ## About Me
 
 ```text
-Name ........ senior-ara1206
-Role ........ Full-Stack / Cloud Engineer
-Focus ....... Web apps, dashboards, cloud fundamentals
+Name ........ Christina Deaver
+Role ........ Senior Software Engineer | AI Engineer
+Focus ....... Full-Stack · APIs · Cloud · DevOps · AI Training
+Location .... Murray, Utah, United States
 Status ...... Open to remote opportunities
-Mindset ..... Learn fast, ship clean, keep improving
 ```
 
-I build modern web experiences with **JavaScript**, **TypeScript**, and **Angular**, and I am growing into **cloud engineering** with AWS and DevOps practices.
+Driven Software Engineer with **10+ years** building full-stack applications, automating data pipelines, and deploying cloud services — largely at Utah SaaS companies. Also an **AI Engineer (3+ years)** focused on model evaluation, prompt quality, and AI-assisted development workflows.
 
-- Building portfolio and production-style projects
-- Exploring cloud, CI/CD, and infrastructure as code
-- Always open to collaboration and feedback
+- Full-stack delivery from UI to API to database
+- Cloud & DevOps on **Azure**, **AWS**, **Docker**, **Kubernetes**, **CI/CD**
+- Observability with **Datadog** and **Grafana**
+- AI evaluation, prompt engineering, and production debugging
+
+**Contact:** [christinadeaver6@gmail.com](mailto:christinadeaver6@gmail.com) · +1 385-248-1416 · [LinkedIn](https://linkedin.com/in/christinadeaver/) · [Resume site](https://senior-ara1206.github.io/cloud-resume/)
+
+---
+
+## Experience Snapshot
+
+| Role | Company | When |
+| --- | --- | --- |
+| AI Engineer | Northloop.ai / Handshake.ai / Outlier.ai | 12/2024 – Present |
+| Software Engineer | Mineral Tech Holdings | 01/2023 – 06/2026 |
+| Senior Software Engineer | Awardco | 03/2019 – 12/2022 |
+| Full Stack Engineer | DX | 06/2015 – 02/2019 |
+| Software Engineer | Lucid Software | 04/2010 – 05/2015 |
+
+---
+
+## Education & Certifications
+
+- **BS Computer Science** — Utah Valley University (2008 – 2010)
+- AWS Certified Developer – Associate (2020)
+- Meta Front-End or Back-End Developer Certificate (2024)
+- HackerRank React, Problem Solving, SQL (2023)
 
 ---
 
@@ -197,7 +221,9 @@ I build modern web experiences with **JavaScript**, **TypeScript**, and **Angula
 <div align="center">
 
   <a href="https://github.com/senior-ara1206"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="mailto:michaelturner8011@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:christinadeaver6@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://linkedin.com/in/christinadeaver/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://senior-ara1206.github.io/cloud-resume/"><img src="https://img.shields.io/badge/Resume_Site-238636?style=for-the-badge&logo=githubpages&logoColor=white" alt="Resume"/></a>
   <img src="https://img.shields.io/badge/Handshake-Available-0A66C2?style=for-the-badge&logo=handshake&logoColor=white" alt="Handshake"/>
 
 </div>
