@@ -1,0 +1,4 @@
+# Ignore local OS junk only. Keep README and workflows tracked.
+.DS_Store
+Thumbs.db
+*.log
