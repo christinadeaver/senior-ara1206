@@ -11,30 +11,17 @@
   <br/>
   <br/>
 
-  <a href="https://github.com/senior-ara1206">
-    <img src="https://komarev.com/ghpvc/?username=senior-ara1206&style=flat-square&color=0F7A4E&label=Profile%20Views&labelColor=0D1117" alt="Profile views"/>
-  </a>
-  <a href="https://github.com/senior-ara1206?tab=followers">
-    <img src="https://img.shields.io/github/followers/senior-ara1206?style=flat-square&logo=github&logoColor=white&label=Followers&labelColor=0D1117&color=1F6FEB" alt="Followers"/>
-  </a>
-  <a href="https://github.com/senior-ara1206?tab=repositories">
-    <img src="https://img.shields.io/github/stars/senior-ara1206?affiliations=OWNER&style=flat-square&logo=github&logoColor=white&label=Stars&labelColor=0D1117&color=D4A017" alt="Stars"/>
-  </a>
-
-  <br/>
-  <br/>
-
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-2ea44f?style=flat-square&logo=handshake&logoColor=white&labelColor=0D1117" alt="Open to work"/>
-  <img src="https://img.shields.io/badge/Remote-Ready-0A66C2?style=flat-square&logo=googlecloud&logoColor=white&labelColor=0D1117" alt="Remote ready"/>
-  <img src="https://img.shields.io/badge/AI%20Engineer-Active-7B42BC?style=flat-square&logo=openai&logoColor=white&labelColor=0D1117" alt="AI engineer"/>
-  <img src="https://img.shields.io/badge/Cloud%20%26%20DevOps-AWS%20%2F%20Azure-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white&labelColor=0D1117" alt="Cloud devops"/>
-  <img src="https://img.shields.io/badge/Full%20Stack-Builder-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=0D1117" alt="Full stack"/>
-  <a href="https://senior-ara1206.github.io/cloud-resume/">
-    <img src="https://img.shields.io/badge/Resume-Live-238636?style=flat-square&logo=githubpages&logoColor=white&labelColor=0D1117" alt="Resume"/>
-  </a>
-  <a href="https://github.com/senior-ara1206?tab=achievements">
-    <img src="https://img.shields.io/badge/Achievements-Active-C9A227?style=flat-square&logo=github&logoColor=black&labelColor=0D1117" alt="Achievements"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=senior-ara1206&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile views"/>
+  <a href="https://github.com/senior-ara1206?tab=followers"><img src="https://img.shields.io/github/followers/senior-ara1206?style=for-the-badge&logo=github&label=Followers&color=238636" alt="Followers"/></a>
+  <img src="https://img.shields.io/github/stars/senior-ara1206?affiliations=OWNER&style=for-the-badge&logo=github&color=yellow&label=Stars" alt="Stars"/>
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-brightgreen?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to work"/>
+  <img src="https://img.shields.io/badge/Remote-Ready-0A66C2?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Remote ready"/>
+  <img src="https://img.shields.io/badge/Cloud%20Engineer-Learning-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="Cloud engineer"/>
+  <img src="https://img.shields.io/badge/Full%20Stack-Builder-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Full stack"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CICD"/>
+  <img src="https://img.shields.io/badge/Docker-Ready-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker ready"/>
+  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="MIT"/>
+  <a href="https://github.com/senior-ara1206?tab=achievements"><img src="https://img.shields.io/badge/Achievements-Active-gold?style=for-the-badge&logo=github&logoColor=black" alt="Achievements"/></a>
 
 </div>
 
